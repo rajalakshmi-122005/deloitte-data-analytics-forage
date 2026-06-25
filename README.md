@@ -60,9 +60,10 @@ Classify employee equality scores across factories and job roles to identify fai
 ---
 
 ## Repository Files
-- `Deloitte_JS_certification.pdf` – Completion certificate
-- `Task_1.png` – Tableau dashboard screenshot
-- `Task_2 Equality Table.xlsx` – Equality score classification workbook
+
+- `Deloitte_Certificate.pdf` – Completion certificate from Forage.
+- `Task_1.png` – Tableau dashboard for Factory Downtime Analysis.
+- `Task_2_Equality_Table.xlsx` – Equality score classification workbook created using Excel formulas.
 
 ---
 
